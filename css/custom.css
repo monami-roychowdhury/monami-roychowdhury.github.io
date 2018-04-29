@@ -1,0 +1,5 @@
+@media all and (orientation:landscape){
+    .custom {
+        background: url(../img/main.png); background-repeat: no-repeat; width:100%;background-size: 800px;background-position: center center;
+    }
+}
