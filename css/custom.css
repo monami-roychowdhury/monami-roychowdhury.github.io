@@ -1,5 +1,5 @@
-@media all and (orientation:landscape){
+@media all and (orientation:landscape) and (min-width: 1000px){
     .custom {
-        background: url(../img/main.png); background-repeat: no-repeat; width:100%;background-size: 800px;background-position: center center;
+        background: url(../img/main.png); background-repeat: no-repeat;background-size: 800px;background-position: center center;
     }
 }
